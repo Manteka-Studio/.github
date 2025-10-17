@@ -1,3 +1,3 @@
-# Manteka Studio
+# maNteka_ stud10
 
 This is the start to something great...
